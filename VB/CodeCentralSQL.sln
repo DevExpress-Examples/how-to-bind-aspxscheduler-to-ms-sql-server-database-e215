@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "D:\CS\CodeCentralSQL\", "Website", "{EBE669D0-1D67-4EB7-87CD-D9086174BB19}"
+	ProjectSection(WebsiteProperties) = preProject
+		Debug.AspNetCompiler.VirtualPath = "/CodeCentralSQL"
+		Debug.AspNetCompiler.PhysicalPath = "Website"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CodeCentralSQL\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CodeCentralSQL"
+		Release.AspNetCompiler.PhysicalPath = "Website"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CodeCentralSQL\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "3594"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBE669D0-1D67-4EB7-87CD-D9086174BB19}.Debug|.NET.ActiveCfg = Debug|.NET
+		{EBE669D0-1D67-4EB7-87CD-D9086174BB19}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
