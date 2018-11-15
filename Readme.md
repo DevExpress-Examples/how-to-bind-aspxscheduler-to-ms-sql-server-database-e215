@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Default.aspx.cs](./CS/Website/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Website/Default.aspx.vb))
+<!-- default file list end -->
 # How to bind ASPxScheduler to MS SQL Server database
 
 
