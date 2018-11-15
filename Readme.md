@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CarsXtraScheduling.sql](./CS/WebSite/App_Data/CarsXtraScheduling.sql) (VB: [CarsXtraScheduling.sql](./VB/WebSite/App_Data/CarsXtraScheduling.sql))
+* [Default.aspx](./CS/WebSite/Default.aspx) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+* [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx](./VB/WebSite/Default.aspx))
+<!-- default file list end -->
 # How to bind ASPxScheduler to MS SQL Server database
 
 
